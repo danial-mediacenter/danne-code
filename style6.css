@@ -1,0 +1,13 @@
+.gridcontainer {
+
+    hight: 700px;
+    display: grid;
+    grid-template-columns: 100px 200px;
+    grid-template-rows: 200px 100px 30p;
+    grid-gap: 10px;
+    
+}
+
+.griditems {
+    background: turquoise;
+}
